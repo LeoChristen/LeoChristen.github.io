@@ -1,0 +1,318 @@
+.header-align {
+    float: left;
+}
+
+.nav-item {
+    padding: 12px;
+    font-size: 20px;
+    color: red;
+    padding: 20px;
+}
+
+.img {
+    border-radius: 99.5px;
+}
+
+.mainImagetext {
+    text-align: center;
+    color: white;
+    padding: 100px;
+}
+
+.navDesign {
+    border-radius: 98px;
+    margin: 30px 50px;
+}
+
+.txtShadow {
+    text-shadow: orangered 1px 0 10px;
+}
+
+.popD {
+    background-color: gray;
+}
+
+body,
+html {
+    height: 100%;
+}
+
+@media (max-width:960px) {
+    .navDesign {
+        border-radius: 5px;
+    }
+}
+
+.main-Photo {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2017/09/14/1422/Hyatt-Regency-Cincinnati-P007-Cincinnnati-Skyline.jpg/Hyatt-Regency-Cincinnati-P007-Cincinnnati-Skyline.16x9.jpg?imwidth=19209");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.gitHub {
+    color: #f1502f;
+    padding: 14px;
+    font-size: 28px;
+}
+
+.linkedIn {
+    color: #0E76A8;
+    padding: 14px;
+    font-size: 28px;
+}
+
+.instaText {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 24px;
+    text-align: center;
+}
+
+.gitText {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20px;
+    text-align: center;
+}
+
+#insta {
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    -webkit-background-clip: text;
+    /* Also define standard property for compatibility */
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 30px;
+    /* change this to change the size*/
+}
+
+#contact a:link {
+    text-decoration: none;
+    color: white;
+}
+
+#contact a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+.me {
+    padding-top: 5px;
+    color: lightgray;
+    font-size: 70px;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.interestsColor {
+    background-color: lightgrey;
+}
+
+.titleInterests {
+    padding-top: 35px;
+    color: black;
+    font-size: 50px;
+    text-align: left;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.subTitleInterests {
+    text-decoration: underline;
+    color: black;
+    font-size: 29px;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.innerSubTitle {
+    font-style: italic;
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.interestPhoto1 {
+    background-image: linear-gradient( rgba(255, 255, 255, 0.0), rgba(255, 255, 255, 0.0)), url("https://instagram.fluk1-1.fna.fbcdn.net/v/t51.2885-15/e15/11226707_488994734586528_736842017_n.jpg?_nc_ht=instagram.fluk1-1.fna.fbcdn.net&_nc_cat=100&oh=c6ae81119fc106f1556fc4c9a01a5510&oe=5E870186");
+    width: 100%;
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.interestPhoto2 {
+    background-image: linear-gradient( rgba(255, 255, 255, 0.0), rgba(255, 255, 255, 0.0)), url("https://local12.com/resources/media/c1209659-a900-4680-8587-f095692e6969-large16x9_Reds2.jpg");
+    width: 100%;
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.interestPhoto3 {
+    background-image: linear-gradient( rgba(255, 255, 255, 0.0), rgba(255, 255, 255, 0.0)), url("https://instagram.fluk1-1.fna.fbcdn.net/v/t51.2885-15/e35/11856792_1465658290429583_942870308_n.jpg?_nc_ht=instagram.fluk1-1.fna.fbcdn.net&_nc_cat=111&oh=90d495b1d245f37f7e86954e793f2f47&oe=5E6B3C41");
+    width: 100%;
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.interestPhoto4 {
+    background-image: linear-gradient( rgba(255, 255, 255, 0.0), rgba(255, 255, 255, 0.0)), url("https://scontent.fluk1-1.fna.fbcdn.net/v/t1.0-9/11750705_718943844877970_7322390405128405828_n.jpg?_nc_cat=110&_nc_ohc=P80QW4twLxsAQnikuz8w2DD4jtxY5QotE_N_e9pVhWS6laES8OEKYT5wQ&_nc_ht=scontent.fluk1-1.fna&oh=42decd8eff188e66e31a7505031afd32&oe=5E831F00");
+    width: 100%;
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bfix {
+    padding: 0 !important;
+    margin: 15px !important;
+}
+
+.interestPhoto5 {
+    background-image: linear-gradient( rgba(255, 255, 255, 0.0), rgba(255, 255, 255, 0.0)), url("https://scontent.fluk1-1.fna.fbcdn.net/v/t31.0-8/s960x960/475019_224653957640297_1427937561_o.jpg?_nc_cat=109&_nc_ohc=kMHkhZJFYDoAQk-acwWBBPOHVDwmc6gujRD1NhkR4xtq5Ka6ivTFQeMKg&_nc_ht=scontent.fluk1-1.fna&oh=966adc8d044c572eb513de08e30711e5&oe=5E451AD5");
+    width: 100%;
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.codingPhoto {
+    background-image: linear-gradient( rgba(255, 255, 255, 0.0), rgba(255, 255, 255, 0.0)), url("codeForInterest.png");
+    width: 100%;
+    height: 400px;
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.codingPhoto2 {
+    background-image: linear-gradient( rgba(255, 255, 255, 0.0), rgba(255, 255, 255, 0.0)), url("htmlCss.png");
+    width: 100%;
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.codingPhoto3 {
+    background-image: linear-gradient( rgba(255, 255, 255, 0.0), rgba(255, 255, 255, 0.0)), url("java.png");
+    width: 100%;
+    height: 400px;
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.aboutBioTitle {
+    font-family: 'Alatsi', sans-serif;
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+.aboutLeo {
+    font-family: 'Alatsi', sans-serif;
+    font-size: 30px;
+}
+
+.acaAchPhoto {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("https://www.cosentini.com/images/projects/NorthernKentuckyUniversityGriffinHallCenterforInformatics/01.northern-kentucky-university-griffin-hall-center-for-informatics.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+    top: 0;
+    position: absolute;
+}
+
+.aaTitle {
+    font-family: 'Alata', sans-serif;
+    font-size: 45px;
+    margin-top: 230px
+}
+
+.aaText {
+    font-family: 'Alata', sans-serif;
+    font-size: 28px;
+    text-decoration: underline;
+}
+
+.aaMainText {
+    font-family: 'Alata', sans-serif;
+    font-size: 20px;
+}
+
+.contactButton {
+    padding: 3px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+input[type=text],
+select,
+textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 10px;
+}
+
+.mT {
+    margin-top: 100px;
+    padding: 20px;
+    float: left;
+    width: 50%;
+    height: 100%;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+@media screen and (max-width: 600px) {
+    .column,
+    input[type=submit] {
+        width: 100%;
+        margin-top: 0;
+    }
+}
+
+.bottomP {
+    padding-bottom: 20px;
+}
